@@ -2,5 +2,5 @@ src/
 node_modules/
 build/css/app.css
 package.json
-package-lock.
+package-lock.json
 gulpfile.js
